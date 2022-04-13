@@ -1,0 +1,5 @@
+BRIAN
+population_by_country_2020.csv:
+https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020?resource=download
+GlobalLandTemperaturesByCountry.csv:
+https://data.world/data-society/global-climate-change-data

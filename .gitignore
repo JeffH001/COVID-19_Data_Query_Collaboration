@@ -1,0 +1,13 @@
+# ~/.gitignore
+.metals/
+.bloop/
+.ammonite/
+metals.sbt
+/.bsp/
+target/
+metastore_db/
+spark-warehouse/
+project/
+derby.log
+.vscode/
+.idea/

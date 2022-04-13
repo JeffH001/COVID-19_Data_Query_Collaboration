@@ -1,0 +1,982 @@
+State,Country,Datapoints
+"",Afghanistan,434
+"",Albania,420
+"",Algeria,433
+"",Andorra,427
+"",Angola,409
+"",Antigua and Barbuda,416
+"",Argentina,426
+"",Armenia,428
+"",Aruba,7
+"",Australia,3
+Australian Capital Territory,Australia,416
+Diamond Princess cruise ship,Australia,12
+External territories,Australia,1
+From Diamond Princess,Australia,18
+Jervis Bay Territory,Australia,1
+New South Wales,Australia,462
+Northern Territory,Australia,425
+Queensland,Australia,459
+South Australia,Australia,457
+Tasmania,Australia,427
+Victoria,Australia,462
+Western Australia,Australia,429
+"",Austria,432
+None,Austria,1
+"",Azerbaijan,429
+"",Bahamas,407
+"","Bahamas, The",3
+"",Bahrain,434
+"",Bangladesh,421
+"",Barbados,412
+"",Belarus,430
+"",Belgium,282
+Antwerp,Belgium,172
+Brussels,Belgium,172
+East Flanders,Belgium,172
+Flemish Brabant,Belgium,172
+Hainaut,Belgium,172
+Liege,Belgium,172
+Limburg,Belgium,172
+Luxembourg,Belgium,172
+Namur,Belgium,172
+Unknown,Belgium,172
+Walloon Brabant,Belgium,172
+West Flanders,Belgium,172
+"",Belize,406
+"",Benin,413
+"",Bhutan,423
+"",Bolivia,418
+"",Bosnia and Herzegovina,424
+"",Botswana,399
+"",Brazil,85
+Acre,Brazil,348
+Alagoas,Brazil,348
+Amapa,Brazil,348
+Amazonas,Brazil,348
+Bahia,Brazil,348
+Ceara,Brazil,348
+Distrito Federal,Brazil,348
+Espirito Santo,Brazil,348
+Goias,Brazil,348
+Maranhao,Brazil,348
+Mato Grosso,Brazil,348
+Mato Grosso do Sul,Brazil,348
+Minas Gerais,Brazil,348
+Para,Brazil,348
+Paraiba,Brazil,348
+Parana,Brazil,348
+Pernambuco,Brazil,348
+Piaui,Brazil,348
+Rio Grande do Norte,Brazil,348
+Rio Grande do Sul,Brazil,348
+Rio de Janeiro,Brazil,348
+Rondonia,Brazil,348
+Roraima,Brazil,348
+Santa Catarina,Brazil,348
+Sao Paulo,Brazil,348
+Sergipe,Brazil,348
+Tocantins,Brazil,348
+Unknown,Brazil,19
+"",Brunei,420
+"",Bulgaria,421
+"",Burkina Faso,419
+"",Burma,402
+"",Burundi,398
+"",Cabo Verde,409
+"",Cambodia,462
+"",Cameroon,423
+"Montreal, QC",Canada,10
+Alberta,Canada,420
+British Columbia,Canada,461
+"Calgary, Alberta",Canada,3
+Diamond Princess cruise ship,Canada,395
+"Edmonton, Alberta",Canada,2
+Grand Princess,Canada,409
+"London, ON",Canada,34
+Manitoba,Canada,416
+New Brunswick,Canada,418
+Newfoundland and Labrador,Canada,414
+Northwest Territories,Canada,405
+Nova Scotia,Canada,410
+Nunavut,Canada,404
+Ontario,Canada,429
+Prince Edward Island,Canada,414
+Quebec,Canada,420
+Recovered,Canada,51
+Repatriated Travellers,Canada,160
+Saskatchewan,Canada,416
+"Toronto, ON",Canada,34
+Yukon,Canada,403
+"",Cape Verde,1
+"",Cayman Islands,3
+"",Central African Republic,414
+"",Chad,410
+"",Channel Islands,1
+"",Chile,78
+Antofagasta,Chile,348
+Araucania,Chile,348
+Arica y Parinacota,Chile,348
+Atacama,Chile,348
+Aysen,Chile,348
+Biobio,Chile,348
+Coquimbo,Chile,348
+Los Lagos,Chile,348
+Los Rios,Chile,348
+Magallanes,Chile,348
+Maule,Chile,348
+Metropolitana,Chile,348
+Nuble,Chile,348
+OHiggins,Chile,348
+Tarapaca,Chile,348
+Unknown,Chile,348
+Valparaiso,Chile,348
+Unknown,China,48
+"",Colombia,84
+Amazonas,Colombia,340
+Antioquia,Colombia,340
+Arauca,Colombia,340
+Atlantico,Colombia,340
+Bolivar,Colombia,340
+Boyaca,Colombia,340
+Caldas,Colombia,340
+Capital District,Colombia,340
+Caqueta,Colombia,340
+Casanare,Colombia,340
+Cauca,Colombia,340
+Cesar,Colombia,340
+Choco,Colombia,340
+Cordoba,Colombia,340
+Cundinamarca,Colombia,340
+Guainia,Colombia,339
+Guaviare,Colombia,329
+Huila,Colombia,340
+La Guajira,Colombia,340
+Magdalena,Colombia,340
+Meta,Colombia,340
+Narino,Colombia,340
+Norte de Santander,Colombia,340
+Putumayo,Colombia,340
+Quindio,Colombia,340
+Risaralda,Colombia,340
+San Andres y Providencia,Colombia,340
+Santander,Colombia,340
+Sucre,Colombia,340
+Tolima,Colombia,340
+Unknown,Colombia,295
+Valle del Cauca,Colombia,340
+Vaupes,Colombia,340
+Vichada,Colombia,338
+"",Comoros,368
+"",Congo (Brazzaville),414
+"",Congo (Kinshasa),418
+"",Costa Rica,423
+"",Croatia,433
+"",Cuba,417
+"",Curacao,2
+"",Cyprus,420
+"",Czech Republic,428
+"",Denmark,420
+Denmark,Denmark,11
+Faroe Islands,Denmark,418
+Greenland,Denmark,410
+"",Diamond Princess,404
+"",Djibouti,411
+"",Dominica,407
+"",Dominican Republic,428
+"",East Timor,1
+"",Ecuador,428
+"",Egypt,444
+"",El Salvador,410
+"",Equatorial Guinea,414
+"",Eritrea,408
+"",Estonia,431
+"",Eswatini,415
+"",Ethiopia,416
+"",Faroe Islands,7
+"",Fiji,410
+"",Finland,460
+"",France,453
+Fench Guiana,France,1
+France,France,11
+French Guiana,France,414
+French Polynesia,France,416
+Guadeloupe,France,413
+Martinique,France,407
+Mayotte,France,414
+New Caledonia,France,410
+Reunion,France,412
+Saint Barthelemy,France,418
+Saint Pierre and Miquelon,France,393
+St Martin,France,418
+Wallis and Futuna,France,120
+"",French Guiana,14
+"",Gabon,415
+"",Gambia,407
+"","Gambia, The",4
+"",Georgia,432
+"",Germany,103
+Baden-Wurttemberg,Germany,354
+Bavaria,Germany,4
+Bayern,Germany,354
+Berlin,Germany,354
+Brandenburg,Germany,354
+Bremen,Germany,354
+Hamburg,Germany,354
+Hessen,Germany,354
+Mecklenburg-Vorpommern,Germany,354
+Niedersachsen,Germany,354
+Nordrhein-Westfalen,Germany,354
+Rheinland-Pfalz,Germany,354
+Saarland,Germany,354
+Sachsen,Germany,354
+Sachsen-Anhalt,Germany,354
+Schleswig-Holstein,Germany,354
+Thuringen,Germany,354
+Unknown,Germany,354
+"",Ghana,415
+"",Gibraltar,7
+"",Greece,432
+"",Greenland,6
+"",Grenada,407
+"",Guadeloupe,9
+"",Guam,6
+"",Guatemala,415
+"",Guernsey,8
+"",Guinea,416
+"",Guinea-Bissau,404
+"",Guyana,417
+"",Haiti,409
+"",Holy See,419
+"",Honduras,418
+Hong Kong,Hong Kong,467
+"",Hungary,425
+"",Iceland,430
+"",India,132
+Andaman and Nicobar Islands,India,327
+Andhra Pradesh,India,327
+Arunachal Pradesh,India,327
+Assam,India,327
+Bihar,India,327
+Chandigarh,India,327
+Chhattisgarh,India,327
+Dadar Nagar Haveli,India,1
+Dadra and Nagar Haveli and Daman and Diu,India,326
+Delhi,India,327
+Goa,India,327
+Gujarat,India,327
+Haryana,India,327
+Himachal Pradesh,India,327
+Jammu and Kashmir,India,327
+Jharkhand,India,327
+Karnataka,India,327
+Kerala,India,327
+Ladakh,India,327
+Lakshadweep,India,279
+Madhya Pradesh,India,327
+Maharashtra,India,327
+Manipur,India,327
+Meghalaya,India,327
+Mizoram,India,327
+Nagaland,India,327
+Odisha,India,327
+Puducherry,India,327
+Punjab,India,327
+Rajasthan,India,327
+Sikkim,India,327
+Tamil Nadu,India,327
+Telangana,India,327
+Tripura,India,327
+Unknown,India,327
+Uttar Pradesh,India,327
+Uttarakhand,India,327
+West Bengal,India,327
+"",Indonesia,427
+"",Iran,439
+"",Iraq,434
+None,Iraq,1
+"",Ireland,429
+"",Israel,432
+From Diamond Princess,Israel,5
+"",Italy,104
+Abruzzo,Italy,354
+Basilicata,Italy,354
+Calabria,Italy,354
+Campania,Italy,354
+Emilia-Romagna,Italy,354
+Friuli Venezia Giulia,Italy,354
+Lazio,Italy,354
+Liguria,Italy,354
+Lombardia,Italy,354
+Marche,Italy,354
+Molise,Italy,354
+P.A. Bolzano,Italy,354
+P.A. Trento,Italy,354
+Piemonte,Italy,354
+Puglia,Italy,354
+Sardegna,Italy,354
+Sicilia,Italy,354
+Toscana,Italy,354
+Umbria,Italy,354
+Valle d'Aosta,Italy,354
+Veneto,Italy,354
+"",Ivory Coast,419
+"",Jamaica,418
+"",Japan,127
+Aichi,Japan,340
+Akita,Japan,340
+Aomori,Japan,340
+Chiba,Japan,340
+Ehime,Japan,340
+Fukui,Japan,340
+Fukuoka,Japan,340
+Fukushima,Japan,340
+Gifu,Japan,340
+Gunma,Japan,340
+Hiroshima,Japan,340
+Hokkaido,Japan,340
+Hyogo,Japan,340
+Ibaraki,Japan,340
+Ishikawa,Japan,340
+Iwate,Japan,289
+Kagawa,Japan,340
+Kagoshima,Japan,340
+Kanagawa,Japan,340
+Kochi,Japan,340
+Kumamoto,Japan,340
+Kyoto,Japan,340
+Mie,Japan,340
+Miyagi,Japan,340
+Miyazaki,Japan,340
+Nagano,Japan,340
+Nagasaki,Japan,340
+Nara,Japan,340
+Niigata,Japan,340
+Oita,Japan,340
+Okayama,Japan,340
+Okinawa,Japan,340
+Osaka,Japan,340
+Port Quarantine,Japan,340
+Saga,Japan,340
+Saitama,Japan,340
+Shiga,Japan,340
+Shimane,Japan,340
+Shizuoka,Japan,340
+Tochigi,Japan,340
+Tokushima,Japan,340
+Tokyo,Japan,340
+Tottori,Japan,340
+Toyama,Japan,340
+Unknown,Japan,340
+Wakayama,Japan,340
+Yamagata,Japan,340
+Yamaguchi,Japan,340
+Yamanashi,Japan,340
+"",Jersey,8
+"",Jordan,426
+"",Kazakhstan,416
+"",Kenya,416
+"",Kosovo,410
+"",Kuwait,434
+"",Kyrgyzstan,411
+"",Laos,405
+"",Latvia,427
+"",Lebanon,436
+None,Lebanon,1
+"",Lesotho,355
+"",Liberia,413
+"",Libya,405
+"",Liechtenstein,425
+"",Lithuania,430
+"",Luxembourg,429
+"",MS Zaandam,401
+Macau,Macau,467
+"",Madagascar,409
+Anhui,Mainland China,467
+Beijing,Mainland China,467
+Chongqing,Mainland China,467
+Fujian,Mainland China,467
+Gansu,Mainland China,469
+Guangdong,Mainland China,467
+Guangxi,Mainland China,467
+Guizhou,Mainland China,467
+Hainan,Mainland China,467
+Hebei,Mainland China,468
+Heilongjiang,Mainland China,467
+Henan,Mainland China,467
+Hubei,Mainland China,468
+Hunan,Mainland China,467
+Inner Mongolia,Mainland China,467
+Jiangsu,Mainland China,467
+Jiangxi,Mainland China,467
+Jilin,Mainland China,467
+Liaoning,Mainland China,467
+Ningxia,Mainland China,467
+Qinghai,Mainland China,467
+Shaanxi,Mainland China,467
+Shandong,Mainland China,467
+Shanghai,Mainland China,467
+Shanxi,Mainland China,467
+Sichuan,Mainland China,467
+Tianjin,Mainland China,467
+Tibet,Mainland China,461
+Unknown,Mainland China,419
+Xinjiang,Mainland China,467
+Yunnan,Mainland China,467
+Zhejiang,Mainland China,467
+"",Malawi,396
+"",Malaysia,465
+"",Maldives,421
+"",Mali,404
+"",Malta,422
+"",Marshall Islands,187
+"",Martinique,15
+"",Mauritania,415
+"",Mauritius,411
+"",Mayotte,6
+"",Mexico,83
+Aguascalientes,Mexico,348
+Baja California,Mexico,348
+Baja California Sur,Mexico,348
+Campeche,Mexico,348
+Chiapas,Mexico,348
+Chihuahua,Mexico,348
+Ciudad de Mexico,Mexico,348
+Coahuila,Mexico,348
+Colima,Mexico,348
+Durango,Mexico,348
+Guanajuato,Mexico,348
+Guerrero,Mexico,348
+Hidalgo,Mexico,348
+Jalisco,Mexico,348
+Mexico,Mexico,348
+Michoacan,Mexico,348
+Morelos,Mexico,348
+Nayarit,Mexico,348
+Nuevo Leon,Mexico,348
+Oaxaca,Mexico,348
+Puebla,Mexico,348
+Queretaro,Mexico,348
+Quintana Roo,Mexico,348
+San Luis Potosi,Mexico,348
+Sinaloa,Mexico,348
+Sonora,Mexico,348
+Tabasco,Mexico,348
+Tamaulipas,Mexico,348
+Tlaxcala,Mexico,348
+Unknown,Mexico,172
+Veracruz,Mexico,348
+Yucatan,Mexico,348
+Zacatecas,Mexico,348
+"",Micronesia,102
+"",Moldova,421
+"",Monaco,429
+"",Mongolia,419
+"",Montenegro,412
+"",Morocco,427
+"",Mozambique,407
+"",Namibia,415
+"",Nepal,464
+"",Netherlands,135
+Aruba,Netherlands,411
+"Bonaire, Sint Eustatius and Saba",Netherlands,396
+Curacao,Netherlands,413
+Drenthe,Netherlands,290
+Flevoland,Netherlands,290
+Friesland,Netherlands,290
+Gelderland,Netherlands,290
+Groningen,Netherlands,290
+Limburg,Netherlands,290
+Netherlands,Netherlands,6
+Noord-Brabant,Netherlands,290
+Noord-Holland,Netherlands,290
+Overijssel,Netherlands,290
+Sint Maarten,Netherlands,409
+Unknown,Netherlands,290
+Utrecht,Netherlands,290
+Zeeland,Netherlands,290
+Zuid-Holland,Netherlands,290
+"",New Zealand,430
+"",Nicaragua,410
+"",Niger,409
+"",Nigeria,430
+"",North Ireland,1
+"",North Macedonia,432
+"",Norway,432
+"",Oman,434
+Cruise Ship,Others,2
+Diamond Princess cruise ship,Others,44
+"",Pakistan,105
+Azad Jammu and Kashmir,Pakistan,327
+Balochistan,Pakistan,327
+Gilgit-Baltistan,Pakistan,327
+Islamabad,Pakistan,327
+Khyber Pakhtunkhwa,Pakistan,327
+Punjab,Pakistan,327
+Sindh,Pakistan,327
+"",Palestine,5
+"",Panama,419
+"",Papua New Guinea,409
+"",Paraguay,421
+"",Peru,83
+Amazonas,Peru,340
+Ancash,Peru,340
+Apurimac,Peru,340
+Arequipa,Peru,340
+Ayacucho,Peru,340
+Cajamarca,Peru,340
+Callao,Peru,340
+Cusco,Peru,340
+Huancavelica,Peru,340
+Huanuco,Peru,340
+Ica,Peru,340
+Junin,Peru,340
+La Libertad,Peru,340
+Lambayeque,Peru,340
+Lima,Peru,340
+Loreto,Peru,340
+Madre de Dios,Peru,340
+Moquegua,Peru,340
+Pasco,Peru,340
+Piura,Peru,340
+Puno,Peru,340
+San Martin,Peru,340
+Tacna,Peru,340
+Tumbes,Peru,340
+Ucayali,Peru,340
+Unknown,Peru,340
+"",Philippines,460
+"",Poland,425
+"",Portugal,427
+"",Puerto Rico,6
+"",Qatar,429
+"",Republic of Ireland,1
+"",Republic of the Congo,6
+"",Reunion,11
+"",Romania,432
+"",Russia,122
+Adygea Republic,Russia,336
+Altai Krai,Russia,336
+Altai Republic,Russia,336
+Amur Oblast,Russia,336
+Arkhangelsk Oblast,Russia,336
+Astrakhan Oblast,Russia,336
+Bashkortostan Republic,Russia,336
+Belgorod Oblast,Russia,336
+Bryansk Oblast,Russia,336
+Buryatia Republic,Russia,336
+Chechen Republic,Russia,336
+Chelyabinsk Oblast,Russia,336
+Chukotka Autonomous Okrug,Russia,336
+Chuvashia Republic,Russia,336
+Dagestan Republic,Russia,336
+Ingushetia Republic,Russia,336
+Irkutsk Oblast,Russia,336
+Ivanovo Oblast,Russia,336
+Jewish Autonomous Okrug,Russia,336
+Kabardino-Balkarian Republic,Russia,336
+Kaliningrad Oblast,Russia,336
+Kalmykia Republic,Russia,336
+Kaluga Oblast,Russia,336
+Kamchatka Krai,Russia,336
+Karachay-Cherkess Republic,Russia,336
+Karelia Republic,Russia,336
+Kemerovo Oblast,Russia,336
+Khabarovsk Krai,Russia,336
+Khakassia Republic,Russia,336
+Khanty-Mansi Autonomous Okrug,Russia,336
+Kirov Oblast,Russia,336
+Komi Republic,Russia,336
+Kostroma Oblast,Russia,336
+Krasnodar Krai,Russia,336
+Krasnoyarsk Krai,Russia,336
+Kurgan Oblast,Russia,336
+Kursk Oblast,Russia,336
+Leningrad Oblast,Russia,336
+Lipetsk Oblast,Russia,336
+Magadan Oblast,Russia,336
+Mari El Republic,Russia,336
+Mordovia Republic,Russia,336
+Moscow,Russia,336
+Moscow Oblast,Russia,336
+Murmansk Oblast,Russia,336
+Nenets Autonomous Okrug,Russia,336
+Nizhny Novgorod Oblast,Russia,336
+North Ossetia - Alania Republic,Russia,336
+Novgorod Oblast,Russia,336
+Novosibirsk Oblast,Russia,336
+Omsk Oblast,Russia,336
+Orel Oblast,Russia,336
+Orenburg Oblast,Russia,336
+Penza Oblast,Russia,336
+Perm Krai,Russia,336
+Primorsky Krai,Russia,336
+Pskov Oblast,Russia,336
+Rostov Oblast,Russia,336
+Ryazan Oblast,Russia,336
+Saint Petersburg,Russia,336
+Sakha (Yakutiya) Republic,Russia,336
+Sakhalin Oblast,Russia,336
+Samara Oblast,Russia,336
+Saratov Oblast,Russia,336
+Smolensk Oblast,Russia,336
+Stavropol Krai,Russia,336
+Sverdlovsk Oblast,Russia,336
+Tambov Oblast,Russia,336
+Tatarstan Republic,Russia,336
+Tomsk Oblast,Russia,336
+Tula Oblast,Russia,336
+Tver Oblast,Russia,336
+Tyumen Oblast,Russia,336
+Tyva Republic,Russia,336
+Udmurt Republic,Russia,336
+Ulyanovsk Oblast,Russia,336
+Vladimir Oblast,Russia,336
+Volgograd Oblast,Russia,336
+Vologda Oblast,Russia,336
+Voronezh Oblast,Russia,336
+Yamalo-Nenets Autonomous Okrug,Russia,336
+Yaroslavl Oblast,Russia,336
+Zabaykalsky Krai,Russia,336
+"",Rwanda,415
+"",Saint Barthelemy,7
+"",Saint Kitts and Nevis,404
+"",Saint Lucia,415
+"",Saint Vincent and the Grenadines,415
+"",Samoa,407
+"",San Marino,431
+"",Sao Tome and Principe,392
+"",Saudi Arabia,427
+"",Senegal,427
+"",Serbia,423
+"",Seychelles,415
+"",Sierra Leone,398
+"",Singapore,466
+"",Slovakia,423
+"",Slovenia,424
+"",Solomon Islands,203
+"",Somalia,413
+"",South Africa,424
+"",South Korea,467
+"",South Sudan,393
+"",Spain,103
+Andalusia,Spain,354
+Aragon,Spain,354
+Asturias,Spain,354
+Baleares,Spain,354
+C. Valenciana,Spain,354
+Canarias,Spain,354
+Cantabria,Spain,354
+Castilla - La Mancha,Spain,354
+Castilla y Leon,Spain,354
+Catalonia,Spain,354
+Ceuta,Spain,354
+Extremadura,Spain,354
+Galicia,Spain,354
+La Rioja,Spain,354
+Madrid,Spain,354
+Melilla,Spain,354
+Murcia,Spain,354
+Navarra,Spain,354
+Pais Vasco,Spain,354
+Unknown,Spain,349
+"",Sri Lanka,462
+"",St. Martin,2
+"",Sudan,416
+"",Suriname,415
+"",Sweden,126
+Blekinge,Sweden,332
+Dalarna,Sweden,332
+Gavleborg,Sweden,332
+Gotland,Sweden,332
+Halland,Sweden,332
+Jamtland Harjedalen,Sweden,332
+Jonkoping,Sweden,332
+Kalmar,Sweden,332
+Kronoberg,Sweden,332
+Norrbotten,Sweden,332
+Orebro,Sweden,332
+Ostergotland,Sweden,332
+Skane,Sweden,332
+Sormland,Sweden,332
+Stockholm,Sweden,332
+Uppsala,Sweden,332
+Varmland,Sweden,332
+Vasterbotten,Sweden,332
+Vasternorrland,Sweden,332
+Vastmanland,Sweden,332
+Vastra Gotaland,Sweden,332
+"",Switzerland,433
+"",Syria,407
+"",Taiwan,418
+Taiwan,Taiwan,49
+"",Tajikistan,368
+"",Tanzania,413
+"",Thailand,467
+"",The Bahamas,6
+"",The Gambia,5
+"",Timor-Leste,407
+"",Togo,423
+"",Trinidad and Tobago,415
+"",Tunisia,425
+"",Turkey,418
+"",UK,121
+Anguilla,UK,401
+Bermuda,UK,410
+British Virgin Islands,UK,401
+Cayman Islands,UK,413
+Channel Islands,UK,418
+England,UK,326
+Falkland Islands (Islas Malvinas),UK,3
+Falkland Islands (Malvinas),UK,391
+Gibraltar,UK,418
+Isle of Man,UK,409
+Montserrat,UK,411
+Northern Ireland,UK,326
+"Saint Helena, Ascension and Tristan da Cunha",UK,404
+Scotland,UK,326
+Turks and Caicos Islands,UK,401
+UK,UK,2
+United Kingdom,UK,9
+Unknown,UK,326
+Wales,UK,326
+"Norfolk County, MA",US,5
+Alabama,US,416
+"Alameda County, CA",US,3
+Alaska,US,418
+American Samoa,US,9
+Arizona,US,425
+Arkansas,US,419
+"Ashland, NE",US,1
+"Bennington County, VT",US,1
+"Bergen County, NJ",US,5
+"Berkeley, CA",US,4
+"Berkshire County, MA",US,2
+"Boston, MA",US,34
+"Broward County, FL",US,3
+California,US,425
+"Carver County, MN",US,1
+"Charleston County, SC",US,3
+"Charlotte County, FL",US,1
+"Chatham County, NC",US,4
+"Cherokee County, GA",US,1
+Chicago,US,1
+"Chicago, IL",US,30
+"Clark County, NV",US,5
+"Clark County, WA",US,3
+"Cobb County, GA",US,3
+"Collin County, TX",US,1
+Colorado,US,419
+Connecticut,US,419
+"Contra Costa County, CA",US,6
+"Cook County, IL",US,8
+"Davidson County, TN",US,2
+"Davis County, UT",US,3
+Delaware,US,419
+"Delaware County, PA",US,4
+"Denver County, CO",US,4
+Diamond Princess cruise ship,US,419
+District of Columbia,US,419
+"Douglas County, CO",US,3
+"Douglas County, NE",US,4
+"Douglas County, OR",US,2
+"El Paso County, CO",US,3
+"Fairfax County, VA",US,2
+"Fairfield County, CT",US,3
+"Fayette County, KY",US,4
+Florida,US,419
+"Floyd County, GA",US,2
+"Fort Bend County, TX",US,5
+"Fresno County, CA",US,2
+"Fulton County, GA",US,7
+Georgia,US,419
+"Grafton County, NH",US,8
+Grand Princess,US,419
+Grand Princess Cruise Ship,US,3
+"Grant County, WA",US,5
+Guam,US,414
+"Harford County, MD",US,2
+"Harris County, TX",US,5
+"Harrison County, KY",US,1
+Hawaii,US,419
+"Hendricks County, IN",US,2
+"Hillsborough, FL",US,8
+"Honolulu County, HI",US,3
+"Hudson County, NJ",US,2
+"Humboldt County, CA",US,18
+Idaho,US,419
+Illinois,US,426
+Indiana,US,419
+Iowa,US,419
+"Jackson County, OR",US,3
+"Jefferson County, KY",US,1
+"Jefferson County, WA",US,3
+"Jefferson Parish, LA",US,1
+"Johnson County, IA",US,1
+"Johnson County, KS",US,2
+Kansas,US,419
+Kentucky,US,419
+"Kershaw County, SC",US,3
+"King County, WA",US,8
+"Kittitas County, WA",US,2
+"Klamath County, OR",US,3
+"Lackland, TX",US,1
+"Lackland, TX (From Diamond Princess)",US,17
+"Lee County, FL",US,3
+"Los Angeles, CA",US,38
+Louisiana,US,419
+"Madera County, CA",US,3
+"Madison, WI",US,34
+Maine,US,419
+"Manatee County, FL",US,2
+"Maricopa County, AZ",US,7
+"Marion County, IN",US,4
+"Marion County, OR",US,2
+Maryland,US,419
+Massachusetts,US,419
+Michigan,US,419
+"Middlesex County, MA",US,4
+Minnesota,US,419
+Mississippi,US,419
+Missouri,US,419
+Montana,US,419
+"Montgomery County, MD",US,4
+"Montgomery County, PA",US,2
+"Montgomery County, TX",US,3
+"Nassau County, NY",US,4
+Nebraska,US,419
+Nevada,US,419
+New Hampshire,US,419
+New Jersey,US,419
+New Mexico,US,419
+New York,US,419
+"New York City, NY",US,4
+"New York County, NY",US,4
+"Norfolk County, MA",US,2
+North Carolina,US,419
+North Dakota,US,419
+Northern Mariana Islands,US,407
+"Norwell County, MA",US,1
+Ohio,US,419
+"Okaloosa County, FL",US,2
+Oklahoma,US,419
+"Omaha, NE (From Diamond Princess)",US,17
+"Orange County, CA",US,6
+"Orange, CA",US,32
+Oregon,US,419
+Pennsylvania,US,419
+"Pierce County, WA",US,3
+"Pinal County, AZ",US,3
+"Placer County, CA",US,8
+"Plymouth County, MA",US,3
+"Polk County, GA",US,2
+"Portland, OR",US,3
+"Providence County, RI",US,3
+"Providence, RI",US,6
+Puerto Rico,US,415
+"Queens County, NY",US,1
+"Ramsey County, MN",US,4
+Recovered,US,405
+Rhode Island,US,419
+"Riverside County, CA",US,2
+"Rockingham County, NH",US,2
+"Rockland County, NY",US,3
+"Sacramento County, CA",US,18
+"San Antonio, TX",US,26
+"San Benito, CA",US,36
+"San Diego County, CA",US,28
+"San Francisco County, CA",US,5
+"San Mateo, CA",US,8
+"Santa Clara County, CA",US,3
+"Santa Clara, CA",US,35
+"Santa Cruz County, CA",US,1
+"Santa Rosa County, FL",US,5
+"Sarasota, FL",US,8
+"Saratoga County, NY",US,3
+"Seattle, WA",US,30
+"Shasta County, CA",US,1
+"Shelby County, TN",US,2
+"Snohomish County, WA",US,10
+"Sonoma County, CA",US,8
+South Carolina,US,419
+South Dakota,US,419
+"Spartanburg County, SC",US,1
+"Spokane County, WA",US,2
+"St. Louis County, MO",US,2
+"Suffolk County, MA",US,4
+"Suffolk County, NY",US,2
+"Summit County, CO",US,4
+"Tempe, AZ",US,35
+Tennessee,US,419
+Texas,US,419
+"Travis, CA",US,1
+"Travis, CA (From Diamond Princess)",US,17
+"Tulsa County, OK",US,3
+US,US,4
+"Ulster County, NY",US,2
+"Umatilla, OR",US,8
+Unassigned Location (From Diamond Princess),US,15
+"Unassigned Location, VT",US,1
+"Unassigned Location, WA",US,4
+United States Virgin Islands,US,4
+"Unknown Location, MA",US,2
+Utah,US,419
+Vermont,US,419
+Virgin Islands,US,411
+"Virgin Islands, U.S.",US,2
+Virginia,US,419
+"Volusia County, FL",US,2
+"Wake County, NC",US,7
+Washington,US,429
+"Washington County, OR",US,7
+"Washington, D.C.",US,2
+"Washoe County, NV",US,4
+"Wayne County, PA",US,4
+West Virginia,US,419
+"Westchester County, NY",US,7
+"Williamson County, TN",US,5
+Wisconsin,US,419
+Wuhan Evacuee,US,1
+Wyoming,US,419
+"Yolo County, CA",US,4
+"",Uganda,408
+"",Ukraine,90
+Cherkasy Oblast,Ukraine,336
+Chernihiv Oblast,Ukraine,336
+Chernivtsi Oblast,Ukraine,336
+Crimea Republic*,Ukraine,336
+Dnipropetrovsk Oblast,Ukraine,336
+Donetsk Oblast,Ukraine,336
+Ivano-Frankivsk Oblast,Ukraine,336
+Kharkiv Oblast,Ukraine,336
+Kherson Oblast,Ukraine,336
+Khmelnytskyi Oblast,Ukraine,336
+Kiev,Ukraine,336
+Kiev Oblast,Ukraine,336
+Kirovohrad Oblast,Ukraine,336
+Luhansk Oblast,Ukraine,336
+Lviv Oblast,Ukraine,336
+Mykolaiv Oblast,Ukraine,336
+Odessa Oblast,Ukraine,336
+Poltava Oblast,Ukraine,336
+Rivne Oblast,Ukraine,336
+Sevastopol*,Ukraine,336
+Sumy Oblast,Ukraine,336
+Ternopil Oblast,Ukraine,336
+Vinnytsia Oblast,Ukraine,336
+Volyn Oblast,Ukraine,336
+Zakarpattia Oblast,Ukraine,336
+Zaporizhia Oblast,Ukraine,336
+Zhytomyr Oblast,Ukraine,336
+"",United Arab Emirates,460
+"",Uruguay,415
+"",Uzbekistan,414
+"",Vanuatu,174
+"",Vatican City,4
+"",Venezuela,415
+"",Vietnam,466
+"",West Bank and Gaza,403
+"",Yemen,388
+"",Zambia,411
+"",Zimbabwe,409
+"",occupied Palestinian territory,7
